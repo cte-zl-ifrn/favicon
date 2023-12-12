@@ -6,7 +6,7 @@ O favicon dos projeto do IFRN para usar nos sites. Atualmente temos o favicon do
 
 Baixe a pasta equivalente ao favicon que você deseja usar e insira o código a seguir dentro da seção <head> do template base de sua página/aplicação, cuidando para que os `href` estejam corretos.
 
-### Intituto
+### Instituto
 
 ```html
 <link
